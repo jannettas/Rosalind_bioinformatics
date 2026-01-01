@@ -18,7 +18,7 @@ GAUGGAACUUGACUACGUAAAUU
 
 dna = input("Enter DNA sequence: ").upper()
 
-# replace Tymine with Uracil
+# replace Thymine with Uracil
 rna = dna.replace('T', 'U')
 
 # rna = ''
