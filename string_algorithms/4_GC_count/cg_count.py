@@ -30,5 +30,4 @@ if current_id is not None:
         max_gc_ratio = current_gc_ratio
         max_gc_id = current_id
 print(max_gc_id)
-#print(max_gc_ratio * 100)
 print(f"{max_gc_ratio:.6f}")
