@@ -41,3 +41,13 @@ Following this analysis, we may advance directly to s[14] and continue sliding o
 
 This method can be generalized to form the framework behind the Knuth-Morris-Pratt algorithm (KMP), 
 which was published in 1977 and offers an efficiency boost for determining whether a given motif can be located within a larger string.
+
+
+-----
+Motif
+A motif is an interval of nucleotides (in nucleic acids) or of amino acids (in proteins) that has biological importance. 
+The context of this importance can vary; a motif could represents an important functional unit of a protein shared by many members of the same species, 
+or it could represent a rare gene encoding a disorder.
+
+In all cases, a motif will be represented by a substring of a genetic string that we wish to locate.
+
